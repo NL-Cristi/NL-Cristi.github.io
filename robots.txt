@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://astro-portfolio-uzair.vercel.app/sitemap-index.xml
+Sitemap: https://nl-cristi.github.io/sitemap-index.xml
