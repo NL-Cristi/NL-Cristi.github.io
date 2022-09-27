@@ -121,5 +121,12 @@ export const info = {
       githubUrl: "https://github.com/NL-Cristi/LogCatcher",
       liveUrl: "https://github.com/NL-Cristi/LogCatcher",
     },
+    {
+      title: "FrebSbS",
+      isFeatured: true,
+      thumbnail: "/assets/images/FrebSbS-3.jpg",
+      githubUrl: "https://github.com/NL-Cristi/FrebSbS",
+      liveUrl: "https://github.com/NL-Cristi/FrebSbS",
+    },
   ],
 };
