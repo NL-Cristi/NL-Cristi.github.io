@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://nl-cristi.github.io/sitemap-index.xml
