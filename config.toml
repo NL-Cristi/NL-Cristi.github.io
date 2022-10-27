@@ -1,4 +1,5 @@
-baseURL = "http://softwaremechanic.me/"
+#baseURL = "https://softwaremechanic.me/"
+baseURL = "https://nl-cristi.github.io/"
 title = "softwaremechanic.me"
 
 theme = "fuji"
