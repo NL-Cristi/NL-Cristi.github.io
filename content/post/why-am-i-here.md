@@ -1,7 +1,7 @@
 +++
 title = "Why do i exist??"
 date = 2022-10-27T00:00:00+08:00
-description = "In-post APlayer testpage of Hugo theme Fuji"
+description = "Why do i have a blog"
 tags = ["Generic"]
 aplayer = false
 showLicense = false
