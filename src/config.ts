@@ -5,7 +5,7 @@ export const SITE = {
   author: "Cristian Negulescu",
   desc: "A small place for my personal blog.",
   title: "SoftwareMechanic",
-  ogImage: "yo.png",
+  ogImage: "",
   lightAndDarkMode: true,
   postPerPage: 10,
 };
@@ -14,7 +14,7 @@ export const LOGO_IMAGE = {
   enable: false,
   svg: true,
   width: 216,
-  height: 46,
+  height: 20,
 };
 
 export const SOCIALS: SocialObjects = [
