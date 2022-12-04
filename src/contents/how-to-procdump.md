@@ -6,7 +6,7 @@ slug: how-to-procdump
 featured: false
 draft: false
 tags:
-  - docs
+  - tracing
 ogImage: ""
 description:
   Some rules & recommendations for creating or adding new posts using AstroPaper
