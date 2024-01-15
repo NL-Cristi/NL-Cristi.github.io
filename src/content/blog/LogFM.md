@@ -1,8 +1,7 @@
 ---
 author: Cristian Negulescu
 pubDatetime: 2024-01-15T09:30:41.816Z
-title: IIS LogCatcher
-slug: "LogCatcher-IIS"
+title: LogFM 
 featured: true
 draft: true
 ogImage: ../../assets/images/GreenGenerateZip.jpg.png
