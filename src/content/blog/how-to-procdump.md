@@ -11,8 +11,7 @@ tags:
   - dumps
   - windbg
   - procdump
-description: "Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme."
+description: "Short cheatSheet for Procdump usage!"
 ---
 Use this for an easy way of when/how to use procdump
 
