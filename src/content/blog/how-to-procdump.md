@@ -1,18 +1,19 @@
 ---
-author: Cristian Negulesc
-datetime: 2022-12-04T15:22:00Z
+author: Cristian Negulescu
+pubDatetime: 2022-12-04T09:30:41.816Z
+modDatetime: 2024-01-04T09:30:41.816Z
 title: How to procdump
-slug: how-to-procdump
-featured: false
+slug: "how-to-procdump"
+featured: true
 draft: false
+ogImage: ../../assets/images/AstroPaper-v4.png
 tags:
-  - tracing
-ogImage: ""
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+  - dumps
+  - windbg
+  - procdump
+description: "Some rules & recommendations for creating or adding new posts using AstroPaper
+  theme."
 ---
-
 Use this for an easy way of when/how to use procdump
 
 Please replace ***999*** from the lower table with the PID of your process. To get the pid you can use the Details View of the TaskManager or powershel/cm.

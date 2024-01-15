@@ -1,20 +1,25 @@
-import type { SocialObjects } from "./types";
+import type { Site, SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://softwaremechanic.me/",
   author: "Cristian Negulescu",
   desc: "A small place for my personal blog.",
   title: "SoftwareMechanic",
-  ogImage: "",
+  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 10,
 };
+
+export const LOCALE = {
+  lang: "en", // html lang code. Set this empty and default will be "en"
+  langTag: ["en-EN"], // BCP 47 Language Tags. Set this empty [] to use the environment default
+} as const;
 
 export const LOGO_IMAGE = {
   enable: false,
   svg: true,
   width: 216,
-  height: 20,
+  height: 46,
 };
 
 export const SOCIALS: SocialObjects = [
@@ -130,6 +135,12 @@ export const SOCIALS: SocialObjects = [
     name: "Telegram",
     href: "https://github.com/NL-Cristi",
     linkTitle: `${SITE.title} on Telegram`,
+    active: false,
+  },
+  {
+    name: "Mastodon",
+    href: "https://github.com/satnaing/astro-paper",
+    linkTitle: `${SITE.title} on Mastodon`,
     active: false,
   },
 ];
