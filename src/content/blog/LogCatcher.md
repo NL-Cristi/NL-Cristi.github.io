@@ -10,15 +10,16 @@ ogImage: ../../assets/images/GreenGenerateZip.jpg.png
 tags:
   - IIS
   - logs
+  - tool
 description: "PowerShell tool created to ease log collection for IIS realated issues."
 ---
-[LogCatcher]: [https://github.com/NL-Cristi/LogCatcher]
+[LogCatcher]:https://github.com/NL-Cristi/LogCatcher
 
 I'm a **LAZY** person so:
 
 
 
-Back when i was in MS Customer Support it was kind of anoying to have the customers collect all IIS related logs from all the places.
+Back when I was in MS Customer Support it was kind of anoying to have the customers collect all IIS related logs from all the places.
 
 For this i wrote 📺 [LogCatcher][LogCatcher] a PowerShell tool that would collect all logs related to IIS/.net.
 
