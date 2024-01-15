@@ -2,7 +2,7 @@
 author: Cristian Negulescu
 pubDatetime: 2022-12-04T09:30:41.816Z
 modDatetime: 2024-01-10T09:30:41.816Z
-title: IIS logs LogCatcher
+title: IIS LogCatcher
 slug: "LogCatcher-IIS"
 featured: true
 draft: false
