@@ -1,8 +1,8 @@
 ---
 author: Cristian Negulescu
 pubDatetime: 2024-01-15T09:30:41.816Z
-title: IIS LogCatcher
-slug: "LogCatcher-IIS"
+title: Freb To HTML
+slug: "Freb-To-HTML"
 featured: true
 draft: false
 ogImage: ../../assets/images/GreenGenerateZip.jpg.png
