@@ -1,7 +1,7 @@
 ---
 author: Cristian Negulescu
-pubDatetime: 2022-12-04T09:30:41.816Z
-modDatetime: 2024-01-10T09:30:41.816Z
+pubDatetime: 2024-01-10T09:30:41.816Z
+modDatetime: 2024-01-16T09:30:41.816Z
 title: Remove Youtube Shorts
 slug: "Remove-Youtube-Shorts"
 featured: true
