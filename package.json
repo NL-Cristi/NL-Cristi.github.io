@@ -11,7 +11,7 @@
     "format:check": "prettier --plugin-search-dir=. --check .",
     "format": "prettier --plugin-search-dir=. --write .",
     "cz": "cz",
-    "prepare": "husky install",
+    "prepare": "husky install && NODE_OPTIONS='--max-old-space-size=4096' lint-staged",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -54,9 +54,12 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx,md,mdx,json}": [
-      "prettier --plugin-search-dir=. --write"
-    ]
-  }
+"lint-staged": {
+  "*.js,*.jsx,*.ts,*.tsx": [
+    "node --max-old-space-size=4096 ./node_modules/.bin/prettier --plugin-search-dir=. --write"
+  ],
+  "*.md,*.mdx,*.json": [
+    "node --max-old-space-size=4096 ./node_modules/.bin/prettier --plugin-search-dir=. --write"
+  ]
+}
 }
